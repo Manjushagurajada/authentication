@@ -1,0 +1,12 @@
+.products-container {
+  padding: 80px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.products-img{
+  height:400px;
+  width:400px;
+}
